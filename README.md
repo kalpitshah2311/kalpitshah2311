@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kalpitshah2311
 - 👀 I’m interested in ... competitive programming 
 - 🌱 I’m currently learning ... dsa + web devlopment
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me on kalpit2311@gmail.com
 
 
