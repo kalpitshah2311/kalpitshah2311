@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kalpit Shah
 - 👀 I’m interested in ...backend developement , database internals
 - 🌱 I’m currently learning ... frontend development
-- 📫 How to reach me ...mail me on kalpit2311@gmail.com
+  
 
 
 <h3>Languages and Tools:</h3>
