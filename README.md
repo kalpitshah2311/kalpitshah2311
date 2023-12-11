@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kalpitshah2311
-- 👀 I’m interested in ... competitive programming 
-- 🌱 I’m currently learning ... dsa + web devlopment
+- 👋 Hi, I’m Kalpit Shah
+- 👀 I’m interested in ...backend developement , database internals
+- 🌱 I’m currently learning ... frontend development
 - 📫 How to reach me ...mail me on kalpit2311@gmail.com
 
 
